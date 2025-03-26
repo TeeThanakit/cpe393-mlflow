@@ -11,3 +11,4 @@ Lab - model_registry
 
 2. https://github.com/DataTalksClub/mlops-zoomcamp
 
+mlflow ui --backend-store-uri sqlite:///mlflow.db
